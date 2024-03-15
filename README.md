@@ -16,6 +16,7 @@ Indeed, this approach could help developers navigating through complex codebases
 **Tech Stack**
 
 - LangChain (Application Framework)
+- HuggingFace SentenceTransformers (Text Embedding)
 - FAISS (Vector Store)
 - Ollama (Local LLMs Platform)
 - Gemma:7b (LLM)
